@@ -1,0 +1,6 @@
+[
+{"Sl No":"1","Test Parameter":"Resolution","Target":"5%","Actual":"1.25%","Comments":"Meets Requirements"},
+{"Sl No":"2","Test Parameter":"Bias","Target":"Bias Test<Bias Critical","Actual":"0.2891 < 0.2842","Comments":"Significant"},
+{"Sl No":"3","Test Parameter":"Cg","Target":"At least: 1.33","Actual":"2.38 <= 2.97 <= 3.56","Comments":""},
+{"Sl No":"4","Test Parameter":"Cgk","Target":"At least: 1.33","Actual":"0.00 <= 2.87 <= 0.00","Comments":"Meets Requirements"}
+]

@@ -1,0 +1,17 @@
+[
+{
+	"id":"1",
+	"name":"Lower Specification",
+	"value":"8.560"
+},
+{
+	"id":"2",
+	"name":"Upper Specification",
+	"value":"8.640"
+},
+{
+	"id":"3",
+	"name":"Tolerance",
+	"value":"0.080"
+}
+]

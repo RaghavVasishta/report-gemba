@@ -1,0 +1,32 @@
+[
+{
+	"id":"1",
+	"name":"Characteristic Name",
+	"value":""
+},
+{
+	"id":"2",
+	"name":"Specification",
+	"value":"8.600"
+},
+{
+	"id":"3",
+	"name":"Lower Tolerance",
+	"value":"-0.040"
+},
+{
+	"id":"4",
+	"name":"Upper Tolerance",
+	"value":"0.040"
+},
+{
+	"id":"5",
+	"name":"Date of Evaluation",
+	"value":""
+},
+{
+	"id":"6",
+	"name":"Comments",
+	"value":""
+}
+]
